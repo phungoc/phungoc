@@ -1,6 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.facebook.com/phubum98"><img width="300" src="cat.gif" alt="phungoc"></a>
+</p>
 
 <!--
+### Hi there 👋
+
 **phungoc/phungoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
